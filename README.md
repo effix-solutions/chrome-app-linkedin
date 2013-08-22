@@ -1,0 +1,1 @@
+LinkedIn Launcher for Chrome

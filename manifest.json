@@ -1,0 +1,19 @@
+{
+  "name": "LinkedIn",
+  "description": "LinkedIn Launcher",
+  "version": "1",
+  "manifest_version": 2,
+  "author": "Fran\u00e7ois-Xavier Lemire",
+
+
+  "app": {
+      "urls": [
+          "http://www.linkedin.com"
+      ],
+      "launch": {
+          "web_url": "http://www.linkedin.com"
+      }
+  },
+
+  "icons": { "16": "linkedin-16.png", "128": "linkedin-128.png" }
+}
